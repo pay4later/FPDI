@@ -1,0 +1,15 @@
+{
+  "name": "pay4later/FPDI",
+  "description": "",
+  "license": "proprietary",
+  "keywords": [],
+  "homepage": "https://git.github.com/pay4later/FPDI",
+  "require": {
+    "php": ">=5.3"
+  },
+  "autoload": {
+    "classmap": [
+      "src"
+    ]
+  }
+}
